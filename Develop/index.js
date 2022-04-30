@@ -52,9 +52,9 @@ inquirer.prompt([
             message: 'What is your email address?',
         }
     ])
-    .then((response) => {
-        console.log(response);
-        const createFile = generateMarkdown(response);
+    .then((data) => {
+        console.log(data);
+        const createFile = generateMarkdown(data);
         fs.writeFile('./dist/README.md', createFile, err => {
           if (err) {
             reject(err);
