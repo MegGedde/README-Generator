@@ -36,10 +36,10 @@ inquirer.prompt([
             message: 'What are the test instructions?'
         },
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'licenses',
             message: 'What licenses were used (check all that apply)?',
-            choices: ['Apache License 2.0', 'MIT', 'SIL Open Font License 1.1', 'zLib License']
+            choices: ['Apache License 2.0','MIT','SIL Open Font License 1.1','zLib License']
         },
         {
             type: 'input',
