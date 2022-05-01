@@ -1,6 +1,6 @@
 
-  # s
-  
+  # 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   1. [Description](#description)
@@ -27,9 +27,8 @@
   
 
   ## Licensing
-  
 
-  None
+  This repository is licensed under MIT. The MIT license expresses permission to reuse code for any purpose, however the original copy of the MIT license in distribution.
 
   ## Questions
 
