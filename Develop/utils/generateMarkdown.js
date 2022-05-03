@@ -40,6 +40,9 @@ function generateMarkdown(data) {
   # ${data.title}
   ${renderLicenseLink(data)}
 
+  ## Description
+  ${data.description}
+
   ## Table of Contents
   1. [Description](#description)
   2. [Instalation Instructions](#instalation-instructions)
@@ -49,8 +52,6 @@ function generateMarkdown(data) {
   6. [Licensing](#licensing)
   7. [Questions](#questions)
 
-  ## Description
-  ${data.description}
 
   ## Instalation Instructions
   ${data.install}
@@ -66,6 +67,8 @@ function generateMarkdown(data) {
 
   ## Licensing
 
+  ${renderLicenseLink(data)}
+  
   ${renderLicenseSection(data)}
 
   ## Questions
