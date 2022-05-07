@@ -1,5 +1,5 @@
 
-  # The Great Code
+  # My Code
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
@@ -16,16 +16,16 @@
 
 
   ## Instalation Instructions
-  You must git init, git pull, git merge and git splerge
+  git pull then save
 
   ## Usage
-  In oder to use this code, you will end the desired amount in the search box and then hit enter.
+  to use you will enter information into command line
 
   ## Contributors
-  Myself and my friend, github.com/Arnold
+  my friend dave
 
   ## Testing Instructions
-  You can test this code by console logging the correct information
+  enter code, hit submit
 
   ## Licensing
 
@@ -35,5 +35,5 @@
 
   ## Questions
 
-  If you have any questions about this repository, please contact my [github account](https://github.com/Meggedde)
-  or [email me](sadfjas;@ashidf.com).
+  If you have any questions about this repository, please contact my [github account](https://github.com/meggedde)
+  or [email me](megan@gmail.com).
